@@ -4,7 +4,7 @@
 //
 //  Created by Brandon Alexander on 3/8/11.
 //  Copyright 2011 While This, Inc. All rights reserved.
-//   Michek
+//   Michel Menard 2012
 
 #import "ProductDetailsViewController.h"
 #import "QuantityCell.h"
